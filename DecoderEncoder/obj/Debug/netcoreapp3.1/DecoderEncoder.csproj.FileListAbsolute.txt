@@ -1,0 +1,17 @@
+C:\Users\nburland\source\repos\DecoderEncoder\DecoderEncoder\bin\Debug\netcoreapp3.1\DecoderEncoder.exe
+C:\Users\nburland\source\repos\DecoderEncoder\DecoderEncoder\bin\Debug\netcoreapp3.1\DecoderEncoder.deps.json
+C:\Users\nburland\source\repos\DecoderEncoder\DecoderEncoder\bin\Debug\netcoreapp3.1\DecoderEncoder.runtimeconfig.json
+C:\Users\nburland\source\repos\DecoderEncoder\DecoderEncoder\bin\Debug\netcoreapp3.1\DecoderEncoder.runtimeconfig.dev.json
+C:\Users\nburland\source\repos\DecoderEncoder\DecoderEncoder\bin\Debug\netcoreapp3.1\DecoderEncoder.dll
+C:\Users\nburland\source\repos\DecoderEncoder\DecoderEncoder\bin\Debug\netcoreapp3.1\DecoderEncoder.pdb
+C:\Users\nburland\source\repos\DecoderEncoder\DecoderEncoder\obj\Debug\netcoreapp3.1\DecoderEncoder.csprojAssemblyReference.cache
+C:\Users\nburland\source\repos\DecoderEncoder\DecoderEncoder\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\nburland\source\repos\DecoderEncoder\DecoderEncoder\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\nburland\source\repos\DecoderEncoder\DecoderEncoder\obj\Debug\netcoreapp3.1\DecoderEncoder_MarkupCompile.cache
+C:\Users\nburland\source\repos\DecoderEncoder\DecoderEncoder\obj\Debug\netcoreapp3.1\DecoderEncoder_MarkupCompile.lref
+C:\Users\nburland\source\repos\DecoderEncoder\DecoderEncoder\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\nburland\source\repos\DecoderEncoder\DecoderEncoder\obj\Debug\netcoreapp3.1\DecoderEncoder.g.resources
+C:\Users\nburland\source\repos\DecoderEncoder\DecoderEncoder\obj\Debug\netcoreapp3.1\DecoderEncoder.AssemblyInfoInputs.cache
+C:\Users\nburland\source\repos\DecoderEncoder\DecoderEncoder\obj\Debug\netcoreapp3.1\DecoderEncoder.AssemblyInfo.cs
+C:\Users\nburland\source\repos\DecoderEncoder\DecoderEncoder\obj\Debug\netcoreapp3.1\DecoderEncoder.dll
+C:\Users\nburland\source\repos\DecoderEncoder\DecoderEncoder\obj\Debug\netcoreapp3.1\DecoderEncoder.pdb
