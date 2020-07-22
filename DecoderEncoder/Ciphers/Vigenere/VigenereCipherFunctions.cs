@@ -98,7 +98,7 @@ namespace DecoderEncoder.Ciphers.VigenereCipher
                 int ciphertextIndex = Array.IndexOf(alphabet, ciphertext[currentIndex]);
                 int messageIndex;
 
-                if (keywordIndex - ciphertextIndex < 0)
+                if (keywordIndex - ciphertextIndex <= 0)
                 {
                     messageIndex = ciphertextIndex - keywordIndex;
                 }
