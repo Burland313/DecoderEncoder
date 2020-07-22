@@ -4,13 +4,14 @@
  * Caesar Shift
  * Vigenere Cipher
 ## Getting Started
-This is where instructions go. Once I learn how to work this thing
+To get started, download the 'setup.exe' file from DecoderEncoderSetup/Debug.
 ### Installing
-Once I learn how to set up this project to install I will fill this out
+Launching the 'setup.exe' file from above launch the Setup Wizard which will install the program.
 ## Ciphers
 * Caesar Shift
     * The Caesar Shift (or Caesar Cipher) is a simple substitution cipher in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet. The following picture represents a Caesar Shift with a shift value of 3.
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Caesar_cipher_left_shift_of_3.svg" width=200px hight=200px />
 ![Caesar Shift Example](https://upload.wikimedia.org/wikipedia/commons/4/4a/Caesar_cipher_left_shift_of_3.svg)
 
 * Vigenere Cipher
