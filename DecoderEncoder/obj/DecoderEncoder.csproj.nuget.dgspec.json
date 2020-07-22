@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nburland\\source\\repos\\DecoderEncoder\\DecoderEncoder\\DecoderEncoder.csproj": {}
+    "C:\\Users\\Nate\\Documents\\GitHub\\DecoderEncoder\\DecoderEncoder\\DecoderEncoder.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nburland\\source\\repos\\DecoderEncoder\\DecoderEncoder\\DecoderEncoder.csproj": {
+    "C:\\Users\\Nate\\Documents\\GitHub\\DecoderEncoder\\DecoderEncoder\\DecoderEncoder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nburland\\source\\repos\\DecoderEncoder\\DecoderEncoder\\DecoderEncoder.csproj",
+        "projectUniqueName": "C:\\Users\\Nate\\Documents\\GitHub\\DecoderEncoder\\DecoderEncoder\\DecoderEncoder.csproj",
         "projectName": "DecoderEncoder",
-        "projectPath": "C:\\Users\\nburland\\source\\repos\\DecoderEncoder\\DecoderEncoder\\DecoderEncoder.csproj",
-        "packagesPath": "C:\\Users\\nburland\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nburland\\source\\repos\\DecoderEncoder\\DecoderEncoder\\obj\\",
+        "projectPath": "C:\\Users\\Nate\\Documents\\GitHub\\DecoderEncoder\\DecoderEncoder\\DecoderEncoder.csproj",
+        "packagesPath": "C:\\Users\\Nate\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nate\\Documents\\GitHub\\DecoderEncoder\\DecoderEncoder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\nburland\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nate\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

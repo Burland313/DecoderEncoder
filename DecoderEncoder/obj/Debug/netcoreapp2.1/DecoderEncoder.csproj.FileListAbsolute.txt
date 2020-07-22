@@ -1,0 +1,11 @@
+C:\Users\Nate\Documents\GitHub\DecoderEncoder\DecoderEncoder\obj\Debug\netcoreapp2.1\DecoderEncoder.csprojAssemblyReference.cache
+C:\Users\Nate\Documents\GitHub\DecoderEncoder\DecoderEncoder\obj\Debug\netcoreapp2.1\DecoderEncoder.AssemblyInfoInputs.cache
+C:\Users\Nate\Documents\GitHub\DecoderEncoder\DecoderEncoder\obj\Debug\netcoreapp2.1\DecoderEncoder.AssemblyInfo.cs
+C:\Users\Nate\Documents\GitHub\DecoderEncoder\DecoderEncoder\obj\Debug\netcoreapp2.1\DecoderEncoder.csproj.CoreCompileInputs.cache
+C:\Users\Nate\Documents\GitHub\DecoderEncoder\DecoderEncoder\bin\Debug\netcoreapp2.1\DecoderEncoder.deps.json
+C:\Users\Nate\Documents\GitHub\DecoderEncoder\DecoderEncoder\bin\Debug\netcoreapp2.1\DecoderEncoder.runtimeconfig.json
+C:\Users\Nate\Documents\GitHub\DecoderEncoder\DecoderEncoder\bin\Debug\netcoreapp2.1\DecoderEncoder.runtimeconfig.dev.json
+C:\Users\Nate\Documents\GitHub\DecoderEncoder\DecoderEncoder\bin\Debug\netcoreapp2.1\DecoderEncoder.dll
+C:\Users\Nate\Documents\GitHub\DecoderEncoder\DecoderEncoder\obj\Debug\netcoreapp2.1\DecoderEncoder.genruntimeconfig.cache
+C:\Users\Nate\Documents\GitHub\DecoderEncoder\DecoderEncoder\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Users\Nate\Documents\GitHub\DecoderEncoder\DecoderEncoder\bin\Debug\netcoreapp2.1\testhost.dll
