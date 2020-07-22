@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecoderEncoder", "DecoderEncoder\DecoderEncoder.csproj", "{B38801A5-7F49-47E4-9D54-1A1BE2CB327A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoderEncoderTest", "DecoderEncoderTest\DecoderEncoderTest.csproj", "{471A3B0D-F953-49D6-BD0A-A1B8E59B8726}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecoderEncoderTest", "DecoderEncoderTest\DecoderEncoderTest.csproj", "{471A3B0D-F953-49D6-BD0A-A1B8E59B8726}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DecoderEncoderSetup", "DecoderEncoderSetup\DecoderEncoderSetup.vdproj", "{589A4437-90D8-4862-9929-D160C7024C2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,8 @@ Global
 		{471A3B0D-F953-49D6-BD0A-A1B8E59B8726}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{471A3B0D-F953-49D6-BD0A-A1B8E59B8726}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{471A3B0D-F953-49D6-BD0A-A1B8E59B8726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{589A4437-90D8-4862-9929-D160C7024C2E}.Debug|Any CPU.ActiveCfg = Debug
+		{589A4437-90D8-4862-9929-D160C7024C2E}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

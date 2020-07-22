@@ -4,7 +4,6 @@ C:\Users\Nate\Documents\GitHub\DecoderEncoder\DecoderEncoder\bin\Release\netcore
 C:\Users\Nate\Documents\GitHub\DecoderEncoder\DecoderEncoder\bin\Release\netcoreapp3.1\DecoderEncoder.runtimeconfig.dev.json
 C:\Users\Nate\Documents\GitHub\DecoderEncoder\DecoderEncoder\bin\Release\netcoreapp3.1\DecoderEncoder.dll
 C:\Users\Nate\Documents\GitHub\DecoderEncoder\DecoderEncoder\bin\Release\netcoreapp3.1\DecoderEncoder.pdb
-C:\Users\Nate\Documents\GitHub\DecoderEncoder\DecoderEncoder\obj\Release\netcoreapp3.1\DecoderEncoder.csprojAssemblyReference.cache
 C:\Users\Nate\Documents\GitHub\DecoderEncoder\DecoderEncoder\obj\Release\netcoreapp3.1\MainWindow.g.cs
 C:\Users\Nate\Documents\GitHub\DecoderEncoder\DecoderEncoder\obj\Release\netcoreapp3.1\App.g.cs
 C:\Users\Nate\Documents\GitHub\DecoderEncoder\DecoderEncoder\obj\Release\netcoreapp3.1\DecoderEncoder_MarkupCompile.cache
@@ -17,3 +16,4 @@ C:\Users\Nate\Documents\GitHub\DecoderEncoder\DecoderEncoder\obj\Release\netcore
 C:\Users\Nate\Documents\GitHub\DecoderEncoder\DecoderEncoder\obj\Release\netcoreapp3.1\DecoderEncoder.dll
 C:\Users\Nate\Documents\GitHub\DecoderEncoder\DecoderEncoder\obj\Release\netcoreapp3.1\DecoderEncoder.pdb
 C:\Users\Nate\Documents\GitHub\DecoderEncoder\DecoderEncoder\obj\Release\netcoreapp3.1\DecoderEncoder.genruntimeconfig.cache
+C:\Users\Nate\Documents\GitHub\DecoderEncoder\DecoderEncoder\obj\Release\netcoreapp3.1\DecoderEncoder.csprojAssemblyReference.cache
