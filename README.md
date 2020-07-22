@@ -20,12 +20,16 @@ Launching the 'setup.exe' file from above will launch the Setup Wizard which wil
 
     * For example, suppose that the plaintext to be encrypted is:
     > ATTACKATDAWN
+
     The person sending the message chooses a keyword and repeats it until it matches the length of the plaintext, for example, the keyword "LEMON":
     > LEMONLEMONLE
+
     * Each row starts with a key letter. The rest of the row holds the letters A to Z (in shifted order). Although there are 26 key rows shown, a code will use only as many keys (different alphabets) as there are unique letters in the key string, here just 5 keys: (L, E, M, O, N).
     * For example, the first letter of the plaintext, A, is paired with L, the first letter of the key. Therefore, row L and column A of the Vigenere square are used, namely L. Similarly, for the second letter of the plaintext, the second letter of the key is used. The letter at row E and column T is X. The rest of the plaintext is enciphered in a similar fashion:
     > Plaintext: ATTACKATDAWN
+
     > Key: LEMONLEMONLE
+    
     > Ciphertext: LXFOPVEFRNHR
 
 ## Using the Ciphers
