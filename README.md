@@ -6,7 +6,7 @@
 ## Getting Started
 To get started, download the 'setup.exe' file from DecoderEncoderSetup/Debug.
 ### Installing
-Launching the 'setup.exe' file from above launch the Setup Wizard which will install the program.
+Launching the 'setup.exe' file from above will launch the Setup Wizard which will install the program.
 ## Ciphers
 * Caesar Shift
     * The Caesar Shift (or Caesar Cipher) is a simple substitution cipher in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet. The following picture represents a Caesar Shift with a shift value of 3.
@@ -17,6 +17,7 @@ Launching the 'setup.exe' file from above launch the Setup Wizard which will ins
     * To encrypt, a table of alphabets can be used, a Vigenere square. It has the alphabet written out 26 times in different rows, each alphabet shifted cyclically to the left compared to the previous alphabet. 
 
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vigen%C3%A8re_square_shading.svg" width=300px hight=300px/>
+
     * For example, suppose that the plaintext to be encrypted is:
     > ATTACKATDAWN
     The person sending the message chooses a keyword and repeats it until it matches the length of the plaintext, for example, the keyword "LEMON":
@@ -31,10 +32,11 @@ Launching the 'setup.exe' file from above launch the Setup Wizard which will ins
 * Caesar Shift
     * One simple test of the Caesar Shift is to use a small sample of the alphabet in order. For example:
     >ABCDEFG
+
     Using a shift of 1 will show the Caesar Shift in action.
 
 * Vigenere Cipher
-    * The Vigenere Cipher isn't the most intuitive cipher to decode. To prove the cipher is working it might be best to compare test cases to a website such as [dcode.fr/vigenere-cipher](dcode.fr/vigenere-cipher). The example used above is a good test case to use.
+    * The Vigenere Cipher isn't the most intuitive cipher to decode. To prove the cipher is working it might be best to compare test cases to a website such as [dcode.fr/vigenere-cipher](https://www.dcode.fr/vigenere-cipher). The example used above is a good test case to use.
 
 ## Using the DecoderEncoder
 The DecoderEncoder software can be used to encode and decode messages using ciphers. 
